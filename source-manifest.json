@@ -1,0 +1,89 @@
+{
+  "asset": "GPT's The Wrigley Building",
+  "author": "X_Bean_X",
+  "publishedVersion": "1.0.0",
+  "publishedPackageSHA256": "4f042e51beb8548d48d1804d22ac92d4d4a8a155563368ffc7d66599af7fdfb7",
+  "authoringFiles": [
+    {
+      "path": "Evidence/MarinaCity-live-site.json",
+      "bytes": 319,
+      "sha256": "3063c60f747081eb7897fcc0cf1e094f5fb0aca772f4c40cd2718e2fff6c1989"
+    },
+    {
+      "path": "Evidence/TrumpTower-live-site.json",
+      "bytes": 319,
+      "sha256": "3063c60f747081eb7897fcc0cf1e094f5fb0aca772f4c40cd2718e2fff6c1989"
+    },
+    {
+      "path": "Evidence/WrigleyBuilding-live-site.json",
+      "bytes": 319,
+      "sha256": "3063c60f747081eb7897fcc0cf1e094f5fb0aca772f4c40cd2718e2fff6c1989"
+    },
+    {
+      "path": "Evidence/site-dimensions.json",
+      "bytes": 130537,
+      "sha256": "e5d79a0beb9a411b46d8764dcb5d8f985a9e7c94a735d0c6980b51d9ae9c4e67"
+    },
+    {
+      "path": "Evidence/site-osm-building-parts.json",
+      "bytes": 64155,
+      "sha256": "62cf13bde3954d106f8be1308d76347071f4c4ac3f8da5b9e97a6377a58bc156"
+    },
+    {
+      "path": "Evidence/site-osm-buildings.json",
+      "bytes": 96220,
+      "sha256": "c11048b055f2f2b047ff77f07322b2930f11121fb6ef8d98244364396a61b969"
+    },
+    {
+      "path": "Scripts/HWLRiverNativePower20261020_v1.cs",
+      "bytes": 4083,
+      "sha256": "b738fb6e641654248b754c67ce956020b3b75e86e4f900da64b8300d167a8cc0"
+    },
+    {
+      "path": "Scripts/build_landmarks.py",
+      "bytes": 20539,
+      "sha256": "88e9e366f90280f62460cb4d56b9d7480e250412517f228c974dd9c1356b1718"
+    },
+    {
+      "path": "Scripts/build_marina_garage_r5.py",
+      "bytes": 21455,
+      "sha256": "f0005cd9b597d64a403286bebc4e84dc017e74acf9781cb93956c98412999b70"
+    },
+    {
+      "path": "Scripts/build_marina_garage_r6.py",
+      "bytes": 30186,
+      "sha256": "97c4cac1f13979f04b5ee94434c45073327b4636ec46323b2bbf04d8b2b82e3e"
+    },
+    {
+      "path": "WrigleyBuilding/Source/WrigleyBuildingXBeanXV1.blend",
+      "bytes": 2176925,
+      "sha256": "dc1a2c78e641e63211bd119b5e4e6940c07e937b1f809f1c35bcc7ed8ea8006c"
+    },
+    {
+      "path": "WrigleyBuilding/Textures/BaseColor.png",
+      "bytes": 20835,
+      "sha256": "e71f8f13c79568bf95dcf9fb6b38bc1d4f98fe0e34c0217058bde5b912b18e54"
+    },
+    {
+      "path": "WrigleyBuilding/Textures/ControlMask.png",
+      "bytes": 18578,
+      "sha256": "82625fa08961e9f5ac5a8dd2b6d89607f5359eb50c72a35f6cae57c449bd5c6a"
+    },
+    {
+      "path": "WrigleyBuilding/Textures/Emissive.png",
+      "bytes": 20740,
+      "sha256": "f83f593f319fdf8d0794a692ea494107338db9b3dac74ca4c449707702bdc87f"
+    },
+    {
+      "path": "WrigleyBuilding/Textures/MaskMap.png",
+      "bytes": 21471,
+      "sha256": "66ca95b47b52550290d5f79be6e659ded8a1fb459b030b920054ab3bd0191693"
+    },
+    {
+      "path": "WrigleyBuilding/Textures/Normal.png",
+      "bytes": 20723,
+      "sha256": "2a37097d002c7245b2a672ff0336249e5af2653458bc882bd86d30d9558ab784"
+    }
+  ],
+  "nativeDefinitionFiles": 40
+}
